@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Bhandari
 
-<!--
-**Shubham277353/Shubham277353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring **Full Stack Web Developer**  
+💻 Learning **JavaScript**, **React**, and practicing **DSA**  
+🚀 Passionate about building cool projects & growing daily  
+📚 BCA Student @ IGNOU | From Delhi, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I'm Working With
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Currently Exploring:** Node.js, Express, MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 My Projects
+Here are a few cool things I’ve built:
+- 🎮 [Stone Paper Scissors Game](https://github.com/Shubham277353/stone-paper-scissors-game)
+- 📺 [Amazon Clone](https://github.com/Shubham277353/amazon-clone)
+- 🖌️ [Etch-a-Sketch](https://github.com/Shubham277353/Etch-a-Sketch)
+
+> 📌 More projects coming soon as I keep learning React and backend!
+
+---
+
+## 📈 Current Focus
+- ✅ 150+ LeetCode DSA problems (JavaScript)
+- ✅ React projects (portfolio, todo app, etc.)
+- ✅ Learning backend to become full stack
+- ✅ Resume & Portfolio building (Aug–Sept)
+
+---
+
+_“Consistency is what turns beginners into pros.”_  
+

@@ -24,13 +24,5 @@ Here are a few cool things I’ve built:
 
 ---
 
-## 📈 Current Focus
-- ✅ 150+ LeetCode DSA problems (JavaScript)
-- ✅ React projects (portfolio, todo app, etc.)
-- ✅ Learning backend to become full stack
-- ✅ Resume & Portfolio building (Aug–Sept)
-
----
-
 _“Consistency is what turns beginners into pros.”_  
 

@@ -16,7 +16,7 @@
 
 ## 📌 My Projects
 Here are a few cool things I’ve built:
-- 🧮 [Odin-Calculator}(https://github.com/Shubham277353/Odin-Calculator)
+- 🧮 [Odin-Calculator](https://github.com/Shubham277353/Odin-Calculator)
 - 📺 [Amazon Clone](https://github.com/Shubham277353/amazon-clone)
 - 🖌️ [Etch-a-Sketch](https://github.com/Shubham277353/Etch-a-Sketch)
 - 🎮 [Stone Paper Scissors Game](https://github.com/Shubham277353/stone-paper-scissors-game)

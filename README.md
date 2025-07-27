@@ -16,9 +16,10 @@
 
 ## 📌 My Projects
 Here are a few cool things I’ve built:
-- 🎮 [Stone Paper Scissors Game](https://github.com/Shubham277353/stone-paper-scissors-game)
+- 🧮 [Odin-Calculator}(https://github.com/Shubham277353/Odin-Calculator)
 - 📺 [Amazon Clone](https://github.com/Shubham277353/amazon-clone)
 - 🖌️ [Etch-a-Sketch](https://github.com/Shubham277353/Etch-a-Sketch)
+- 🎮 [Stone Paper Scissors Game](https://github.com/Shubham277353/stone-paper-scissors-game)
 
 > 📌 More projects coming soon as I keep learning React and backend!
 

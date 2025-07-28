@@ -9,7 +9,7 @@
 
 ## 🔧 Technologies I'm Working With
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Currently Exploring:** Node.js, Express, MongoDB
+- **Future technologies:** Node.js, Express, MongoDB
 - **Tools:** Git, GitHub, VS Code
 
 ---

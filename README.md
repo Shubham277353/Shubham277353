@@ -16,6 +16,7 @@
 
 ## 📌 My Projects
 Here are a few cool things I’ve built:
+- ✅ [Tic-tac-toe](https://github.com/Shubham277353/Tic-Tac-Toe-.git)
 - 🧮 [Odin-Calculator](https://github.com/Shubham277353/Odin-Calculator)
 - 📺 [Dashboard-layout](https://github.com/Shubham277353/Admin-Dashboard.git)
 - 🖌️ [Etch-a-Sketch](https://github.com/Shubham277353/Etch-a-Sketch)
